@@ -1,0 +1,26 @@
+body
+{
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+}
+section
+{
+    width: 300px;
+    border: 15px  black;
+    padding: 50px;
+    margin: 20px;
+    padding-left: 50px;
+    background-color: lightblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+.forms {
+    padding-left: 29%;
+    color: black;
+  }
+  h2 {
+    text-align: center;
+    color: black;
+  }
